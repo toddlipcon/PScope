@@ -1,0 +1,11 @@
+I'm putting this on github since I've had a request to update it to
+be compatible with the latest OSX, but no longer have any Mac
+environment on which to do so. Hopefully someone else will pick it
+up and update it!
+
+I wrote this about 6 years ago, and haven't touched it since, so
+please excuse the total crappiness of some of the code within.
+
+The license is unknown - looking at the code, it looks like I started
+with some AudioUnit example and then hacked from there. Looking at
+the license headers from the example code, it appears to be BSD-ish.

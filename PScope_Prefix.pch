@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PScope' target in the 'PScope' project.
+//
+
+#define DEBUG 1
+
+#include <Carbon/Carbon.h>
